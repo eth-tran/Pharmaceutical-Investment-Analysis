@@ -20,6 +20,6 @@ Install requirements.txt
 
 Run notebooks in order:
 1. Preprocessing.ipynb
-2. Modelling.ipynb
+2. Analysis.ipynb
 
 Feel free to contact me if you have any questions!
